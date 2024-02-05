@@ -102,9 +102,23 @@ Index
 | **Back** | Brefing API 구현, DB 구축 및 조작             |
 | **Front**| Brefing ReQuest User Interface 구현             |
 
+**AI**
+-------------------------------------------------------------
+**ToDoList**
+  
+**Back**
+-------------------------------------------------------------
+**ToDoList**
+
+**Front**
+-------------------------------------------------------------
+**ToDoList**
+
+
+
 
 * Service FlowChart
-* 
+ 
 ![브리핑생성flowchart](https://github.com/prometheus-BIS/README/assets/133326837/68c12d16-9993-4ac1-bea9-2fb26f52fa0e)
 
 ![과거기록조회flowchart](https://github.com/prometheus-BIS/README/assets/133326837/027c5f7a-671a-4ba4-b3af-e4db5916802f)

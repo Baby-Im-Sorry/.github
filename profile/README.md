@@ -23,6 +23,7 @@ Index
 
 
 
+
 ## Competition Overview
 
 
@@ -32,6 +33,10 @@ Index
 | **Schedule**                | **_2024.01.22 - 2024.01.28 (예선)<br>2024.02.02 - 2024.02.03 (본선)_** |
 | **Outcome**                | `우수상`                     |
 
+<img src="https://github.com/Baby-Im-Sorry/.github/assets/84231143/ed93319a-3e03-4a10-956b-fdb6168499ac" width="20%">
+<img src="https://github.com/Baby-Im-Sorry/.github/assets/84231143/26162c56-3be9-4ba2-b1ea-91daf43fa0c7" width="20%">
+<img src="https://github.com/Baby-Im-Sorry/.github/assets/84231143/d6b74b99-187e-4285-b899-92bd06fab3f8" width="29%"> 
+<img src="https://github.com/Baby-Im-Sorry/.github/assets/84231143/78a81746-e8ad-42c8-ab66-50d17e79c48c" width="29%"></br>
 
 ## Service Introduction
 

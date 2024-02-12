@@ -10,7 +10,7 @@ Members
 |------------|-------------------------------|
 | **Front, PM**  | Kim Jongmin [@miniwa00](https://github.com/miniwa00) |
 | **Back**       | Kim Haeeun [@hyeesw](https://github.com/hyeesw)     |
-| **Back**       | Lee Yongryull [@2eey10](https://github.com/2eey10) |
+| **Back, AI**       | Lee Yongryull [@2eey10](https://github.com/2eey10) |
 | **AI**         | Youn Taeyang [@youn-sun](https://github.com/youn-sun) |
 
 Index

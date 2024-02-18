@@ -132,6 +132,8 @@ Index
 ![gpt4커스텀flowchart](https://github.com/prometheus-BIS/README/assets/133326837/3974aaca-dfc8-431b-8df0-9673ccd2e4af)
 
 ## Web/App Development Stack
++ **System Architecture**:
+![image](https://github.com/Baby-Im-Sorry/.github/assets/84231143/5e1bc7d0-cbf6-4919-a2eb-79e1b7dd8947)
 
 + **Dev Environment**:
   + **Network**: HTTP, WebSocket

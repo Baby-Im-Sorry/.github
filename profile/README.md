@@ -133,7 +133,10 @@ Index
 
 ## Web/App Development Stack
 + **System Architecture**:
-![image](https://github.com/Baby-Im-Sorry/.github/assets/84231143/5e1bc7d0-cbf6-4919-a2eb-79e1b7dd8947)
+![image](https://github.com/Baby-Im-Sorry/.github/assets/84231143/f43f2016-349a-4251-980c-8c902fe95a32)
+
+
+
 
 + **Dev Environment**:
   + **Network**: HTTP, WebSocket
